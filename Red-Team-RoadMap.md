@@ -26,7 +26,6 @@
 - [Does the MITRE ATT&CK framework provide complete coverage](#item-XII)
 - [Red Team Steps](#item-XIII)
 - [Red Team salaries](#item-XIV)
-- [Red Team Interview questions ( Persian )](#item-XV)
 
 ***
 <a id="item-I"></a>
